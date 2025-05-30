@@ -10,4 +10,4 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [acceso-spento 3](https://debysalmi.github.io/gim/Esercizio_1A/acceso_spento_3.html)
 
 ##  Esercizio 1 B
-- []()
+- [Animazione logo](https://debysalmi.github.io/gim/Esercizio_1B/index.html)
