@@ -1,4 +1,6 @@
 # gim
+
+Deborah CV1  
 Corso di Grafica in movimento 2025, SUPSI.  
 
 
