@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>img</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+			margin: 3em 2em;
+		}
+	</style>
+
+</head>
+<body>
+
+	<img />
+
+	<script type="module">
+
+		const sequenza = [
+			"img/0000.png",
+			"img/00001.png",
+			"img/00002.png",
+			"img/00003.png",
+			"img/00004.png",
+			"img/00005.png",
+			"img/00006.png",
+			"img/00007.png",
+			"img/00008.png",
+			"img/00009.png",
+			"img/000010.png",
+			"img/000011.png",
+			"img/000012.png",
+			"img/000013.png",
+			"img/000014.png",
+			"img/000015.png",
+			"img/000016.png",
+			"img/000017.png",
+			"img/000018.png",
+			"img/000019.png",
+			"img/000020.png",
+			"img/000021.png",
+			"img/000022.png",
+			"img/000023.png",
+			"img/000024.png",
+			"img/000025.png",
+			// ----------------------
+			"img/000025.png",
+			"img/000024.png",
+			"img/000023.png",
+			"img/000022.png",
+			"img/000021.png",
+			"img/000020.png",
+			"img/000019.png",
+			"img/000018.png",
+			"img/000017.png",
+			"img/000016.png",
+			"img/000015.png",
+			"img/000014.png",
+			"img/000013.png",
+			"img/000012.png",
+			"img/000011.png",
+			"img/000010.png",
+			"img/00009.png",
+			"img/00008.png",
+			"img/00007.png",
+			"img/00006.png",
+			"img/00005.png",
+			"img/00004.png",
+			"img/00003.png",
+			"img/00002.png",
+			"img/00001.png",
+			"img/0000.png",
+		]
+
+		let frame = 0
+
+		setInterval(() => {
+			const img = document.querySelector("img")
+			img.src = sequenza[frame]
+			frame = (frame + 1) % sequenza.length
+		}, 60)
+
+	</script>
+</body>
+</html>
