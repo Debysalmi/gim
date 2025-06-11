@@ -33,4 +33,4 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [pong](https://debysalmi.github.io/gim/Esercizio_3A/pong)
 
 ##  Esercizio_3B
-[che ora è?](https://debysalmi.github.io/gim/Esercizio_3B)
+[che ora è?](https://debysalmi.github.io/gim/Esercizio_3B/index.html)
