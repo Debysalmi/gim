@@ -10,13 +10,14 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [acceso-spento 3](https://debysalmi.github.io/gim/Esercizio_1A/acceso_spento_3.html)
 - [aperto_chiuso 2](https://debysalmi.github.io/gim/Esercizio_1A/aperto_chiuso_2.html)
 - [aperto_chiuso 3](https://debysalmi.github.io/gim/Esercizio_1A/aperto_chiuso_3.html)
-
-- [rotazione 2]()
-- [rotazione 3]()
+- [rotazione 2]((https://debysalmi.github.io/gim)
+- [rotazione 3]((https://debysalmi.github.io/gim)
+- [spostamento 2]((https://debysalmi.github.io/gim)
+- [spostamento 3]((https://debysalmi.github.io/gim)
 
 
 ##  Esercizio_1B
-- [Animazione_logo](https://debysalmi.github.io/gim/Esercizio_1B/index.html)
+- [Animazione-logo](https://debysalmi.github.io/gim/Esercizio_1B/index.html)
 
 ##  Esercizio_1C
 
