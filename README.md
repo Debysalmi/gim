@@ -24,6 +24,12 @@ Corso di Grafica in movimento 2025, SUPSI.
 ##  Esercizio_2
 - [parallasse interattivo](https://debysalmi.github.io/gim/Esercizio_2/index_interattivo.html)
 - [parallasse animato](https://debysalmi.github.io/gim/Esercizio_2/index_animato.html)
+
+
+
 ##  Esercizio_3A
+- [neve](https://debysalmi.github.io/gim/Esercizio_3A/neve)
+- [pioggia](https://debysalmi.github.io/gim/Esercizio_3A/pioggia)
+- [pong](https://debysalmi.github.io/gim/Esercizio_3A/pong)
 
 ##  Esercizio_3B
