@@ -16,14 +16,14 @@ Corso di Grafica in movimento 2025, SUPSI.
 
 
 ##  Esercizio_1B
-- [Animazione logo](https://debysalmi.github.io/gim/Esercizio_1B/index.html)
+- [Animazione_logo](https://debysalmi.github.io/gim/Esercizio_1B/index.html)
 
 ##  Esercizio_1C
 
 ##  Esercizio_2
-- [interattivo](https://debysalmi.github.io/gim/)
-- [animato](https://debysalmi.github.io/gim//Esercizio_2/template/index_animato.html)
-- [index_animato_prova](https://debysalmi.github.io/gim/Esercizio_2/)
+- [interattivo](https://debysalmi.github.io/gim/Esercizio_2/index_interattivo.html)
+- [animato](https://debysalmi.github.io/gim/Esercizio_2/index_animato.html)
+- [animato_prova](https://debysalmi.github.io/gim/Esercizio_2/index_animato_prova.html)
 ##  Esercizio_3A
 
 ##  Esercizio_3B
