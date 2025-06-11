@@ -10,10 +10,10 @@ Corso di Grafica in movimento 2025, SUPSI.
 - [acceso-spento 3](https://debysalmi.github.io/gim/Esercizio_1A/acceso_spento_3.html)
 - [aperto_chiuso 2](https://debysalmi.github.io/gim/Esercizio_1A/aperto_chiuso_2.html)
 - [aperto_chiuso 3](https://debysalmi.github.io/gim/Esercizio_1A/aperto_chiuso_3.html)
-- [rotazione 2]((https://debysalmi.github.io/gim)
-- [rotazione 3]((https://debysalmi.github.io/gim)
-- [spostamento 2]((https://debysalmi.github.io/gim)
-- [spostamento 3]((https://debysalmi.github.io/gim)
+- [rotazione 2](https://debysalmi.github.io/gim/Esercizio_1A/rotazione_2.html)
+- [rotazione 3](https://debysalmi.github.io/gim/Esercizio_1A/rotazione_3.html)
+- [spostamento 2](https://debysalmi.github.io/gim/Esercizio_1A/spostamento_2.html)
+- [spostamento 3](https://debysalmi.github.io/gim/Esercizio_1A/spostamento_3.html)
 
 
 ##  Esercizio_1B
@@ -22,9 +22,8 @@ Corso di Grafica in movimento 2025, SUPSI.
 ##  Esercizio_1C
 
 ##  Esercizio_2
-- [interattivo](https://debysalmi.github.io/gim/Esercizio_2/index_interattivo.html)
-- [animato](https://debysalmi.github.io/gim/Esercizio_2/index_animato.html)
-- [animato_prova](https://debysalmi.github.io/gim/Esercizio_2/index_animato_prova.html)
+- [parallasse interattivo](https://debysalmi.github.io/gim/Esercizio_2/index_interattivo.html)
+- [parallasse animato](https://debysalmi.github.io/gim/Esercizio_2/index_animato.html)
 ##  Esercizio_3A
 
 ##  Esercizio_3B
