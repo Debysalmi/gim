@@ -1,5 +1,5 @@
 let cities = [
-  { name: "Lugano", offset: 2 },
+  { name: "Paris", offset: 2 },
   { name: "New York", offset: -4 },
   { name: "London", offset: 1 },
   { name: "Tokyo", offset: 9 },
