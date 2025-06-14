@@ -1,0 +1,5 @@
+Nel saggio Sul Teatro di Marionette, Kleist mostra come la grazia autentica non appartenga all’essere umano, ma a chi è privo di coscienza, come le marionette. Proprio perché non pensano, i loro movimenti risultano naturali, armoniosi, quasi perfetti. Al contrario, l’essere umano, più cerca di controllarsi, più diventa rigido e innaturale.
+Mi ha colpito la proposta dell’autore: per ritrovare la grazia, esistono due vie opposte ma complementari — tornare all’innocenza originaria dell’infanzia oppure superare la coscienza e raggiungere uno stato superiore, quasi divino.
+Riflettendo su questo, mi sembra che spesso ciò che emoziona davvero nell’arte non sia il puro realismo, ma l’equilibrio sottile tra tecnica e spontaneità. Alla fine, anche noi, come i marionettisti, cerchiamo un modo per dare vita all’invisibile.  
+
+La formulazione delle frasi è stata migliorata con il supporto di un LLM (ChatGPT, OpenAI).
